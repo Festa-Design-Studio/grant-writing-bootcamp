@@ -1,22 +1,3 @@
----
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Background
 
 [Proudtobeme](https://proudtobeme.org/) (PTBM) is a nonprofit empowering young individuals (13-25) from underserved communities in the UK 🇬🇧 and Nigeria 🇳🇬.&#x20;
