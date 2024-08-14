@@ -5,7 +5,7 @@
 ## Project Planning
 
 * [The challenge](project-planning/the-challenge.md)
-* [Project design](project-planning/project-design.md)
+* [Project design and implementation plan](project-planning/project-design.md)
 * [Project logframe](project-planning/project-logframe.md)
 
 ## Pre-bootcamp
