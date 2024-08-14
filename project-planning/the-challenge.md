@@ -14,6 +14,10 @@ The operations manager highlighted that the primary problem stemmed from the tea
 
 After identifying why PTBM isn't securing grants, I organized the issues in [Google Docs for clarity](https://docs.google.com/document/d/1WtIlBRjZYbt53-gz3LeQ2A0gPt1UuDMAdTNWkYtJR5s/edit). I created a table with three columns: problems, solutions (objectives), and impact, using the theory of change framework. I synthesized the problems to identify objectives and impacts. After drafting the solutions, I invited PTBM for another review.
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/defining-grant-writing-bootcamp-problem-statement.png" alt=""><figcaption><p>Working document creating problem statement</p></figcaption></figure>
+
+</div>
 
 Together with PTBM, we defined the bootcamp’s solutions by drafting specific objectives based on the synthesized problem statement. As a result, we crafted a clear and measurable solution statement (Outcome).
